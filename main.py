@@ -4,4 +4,4 @@ print (name [-1])
 print (name [3:])
 print (name [::-1])
 print (name [1::2])
-#тест    тест
+print (5)
